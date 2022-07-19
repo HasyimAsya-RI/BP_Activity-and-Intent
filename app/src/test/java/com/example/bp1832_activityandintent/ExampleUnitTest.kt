@@ -1,4 +1,4 @@
-package com.example.bp_3activityandintent
+package com.example.bp1832_activityandintent
 
 import org.junit.Test
 
